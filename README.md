@@ -1,4 +1,4 @@
-# EXPLORE GDP ACROSS COUNTRIES
+# EXPLORE GDP INDICATOR ACROSS COUNTRIES
 ## Using pandas and matplotlib:
 1. Plotting Global and Vietnam population from 1970 - 2021
 2. Explore the countries with highest and lowest US exchange rate
